@@ -1,0 +1,3 @@
+This homework was about using Gaussian Processes to fit El Nino temperature data, interpolate it to a finer timescale and then extrapolate out 10 years into the future. The hardest part of this homework was figuring out
+how to use george to do the actual gaussian process prediction, in particular, picking the kernel was difficult. The easiest part was the data acquisition and flattening, making the vizualizations was also very fun. I worked 
+with Zach Mckennedy on this homework. I did the beginning up through the actual gaussian process step, Zach did the second half including finishing the gaussian process step, optimizing and visualizing the process.
