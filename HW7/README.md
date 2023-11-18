@@ -1,1 +1,3 @@
-I am taking my one time 72 hour extension on this homework
+I elected to take my one time 72 hour extension on this homework.
+
+This homework was on using different methods of clustering in order to group samples of cancer cells according to their gene expressions. Specifically, we were interested in how different embedding and clustering methods behave on the same data. We tried both tNSE as well as Umap embedding and kMeans, DBScan, and hierarchical clustering algorithms. The easiest part was the data acquisition as well as the standardization of the data. The trickiest part was the selection of the hyperparameters for the embedding as I kindof felt like I was stuck unable to make it resolve into any useful structure. I worked with Zach Mckennedy on this homework. I did up through kMeans clustering, and then Zach did from DBScan clustering on.
